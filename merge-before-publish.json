@@ -70,10 +70,7 @@
     "signin_forgotsigninlabel": "Forgot email or password?",
     "signin_header": "SIGN IN",
     "signin_learnMore": "LEARN MORE",
-    "signin_newToDazn": "NEW TO DAZN",
-    "signin_noAccountSignUp": "Don't have account ? Sign Up",
-    "signin_pageHeader": "SIGN IN",
-    "signin_password": "password?"
+    "signin_newToDazn": "NEW TO DAZN"
   },
   "Metadata": {
     "ArticlesLastUpdated": "2018-09-23T19:00:54.000Z",
