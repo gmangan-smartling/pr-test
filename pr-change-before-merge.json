@@ -71,11 +71,7 @@
     "browseui_delayedTitle": "DELAYED",
     "browseui_estimatedLabel": "est.",
     "browseui_highlightsTitle": "HIGHLIGHTS",
-    "browseui_highlightsavailable": "Highlights available",
-    "browseui_highlightsonly": "Highlights",
-    "browseui_liveNow": "LIVE NOW",
-    "browseui_liveTitle": "LIVE NOW",
-    "browseui_livesoonlabel": "LIVE SOON"
+    "browseui_highlightsavailable": "Highlights available"
   },
   "Metadata": {
     "ArticlesLastUpdated": "2018-09-23T19:00:54.000Z",
