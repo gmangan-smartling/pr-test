@@ -73,10 +73,7 @@
     "signin_newToDazn": "NEW TO DAZN",
     "signin_noAccountSignUp": "Don't have account ? Sign Up",
     "signin_pageHeader": "SIGN IN",
-    "signin_password": "password?",
-    "signin_passwordHint": "At least 5 characters",
-    "signin_passwordlabel": "PASSWORD"
-
+    "signin_password": "password?"
   },
   "Metadata": {
     "ArticlesLastUpdated": "2018-09-23T19:00:54.000Z",
