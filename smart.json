@@ -1,0 +1,67 @@
+{
+    "Links": [
+    {
+      "Key": "ContactUs",
+      "Value": "https://my.dazn.com/contactus/DE-en"
+    },
+    {
+      "Key": "Help",
+      "Value": "https://my.dazn.com/help/DE-en"
+    },
+    {
+      "Key": "Faq",
+      "Value": "https://my.dazn.com/help/DE-en/FAQ"
+    },
+    {
+      "Key": "MyAccount",
+      "Value": "https://my.dazn.com/myaccount"
+    },
+    {
+      "Key": "EditPayment",
+      "Value": "https://my.dazn.com/ChangePaymentMethod"
+    },
+    {
+      "Key": "Terms",
+      "Value": "https://my.dazn.com/help/DE-en/terms"
+    },
+    {
+      "Key": "Privacy",
+      "Value": "https://my.dazn.com/help/DE-en/privacy"
+    },
+    {
+      "Key": "GoogleStore",
+      "Value": "https://play.google.com/store/apps/details?id=com.dazn&hl=de"
+    },
+    {
+      "Key": "AmazonStore",
+      "Value": "https://www.amazon.de/DAZN/dp/B01IPC7MBE"
+    },
+    {
+      "Key": "AppleStore",
+      "Value": "https://itunes.apple.com/de/app/dazn/id1129523589"
+    },
+    {
+      "Key": "Impressum",
+      "Value": "https://my.dazn.com/help/DE-en/impressum"
+    },
+    {
+      "Key": "GiftCodePurchase",
+      "Value": "https://my.dazn.com/help/DE-en/where-to-buy-a-gift-code"
+    },
+    {
+      "Key": "thirdPartyPaymentArticleLink",
+      "Value": "https://my.dazn.com/help/DE-en/why-are-gift-codes-not-applicable-to-my-account"
+    },
+    {
+      "Key": "Media",
+      "Value": "http://media.dazn.com/de/"
+    }
+  ],
+  "Strings": {
+    "error2_body_fallback": "We are facing an unexpected issue and our techs are working hard to fix it. \nPlease, come back later.",
+    "error2_cancel_button": "Cancel",
+    "error2_header_fallback": "Our apologies",
+    "error_10000": "Sorry, DAZN encountered an error. Please try again.",
+    "error_10000_header": "SOMETHING WENT WRONG"
+  }
+}
