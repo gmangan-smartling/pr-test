@@ -62,7 +62,7 @@
     "browseui_countdownMessage": "GOING LIVE IN %{countdown}...",
     "browseui_delayedTitle": "DELAYED",
     "browseui_estimatedLabel": "est.",
-    "browseui_notactualui": "Wait, what am I doing here?",
+    "browseui_notactualui": "Wait, you just modified this text.",
     "browseui_highlightsavailable": "Highlights available"
   },
   "Metadata": {
