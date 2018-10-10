@@ -62,7 +62,7 @@
     "browseui_countdownMessage": "GOING LIVE IN %{countdown}...",
     "browseui_delayedTitle": "DELAYED",
     "browseui_estimatedLabel": "est.",
-    "browseui_notactualui": "This will get modified twice.",
+    "browseui_notactualui": "This is the second time. Already merged earlier translation. This will get modified twice.",
     "browseui_highlightsavailable": "Highlights available"
   },
   "Metadata": {
