@@ -74,7 +74,7 @@
     "browseui_countdownMessage" : "IR vivo en %{countdown}...",
     "browseui_delayedTitle" : "RETRASADO",
     "browseui_estimatedLabel" : "est.",
-    "browseui_notactualui" : "This will get modified twice.",
+    "browseui_notactualui" : "Esta es la segunda vez. Traducción anterior ya fusionada. Esto se consigue modificada dos veces.",
     "browseui_highlightsavailable" : "Destacados disponibles"
   },
   "Metadata" : {
