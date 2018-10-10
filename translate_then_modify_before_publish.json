@@ -62,7 +62,7 @@
     "browseui_countdownMessage": "GOING LIVE IN %{countdown}...",
     "browseui_delayedTitle": "DELAYED",
     "browseui_estimatedLabel": "est.",
-    "browseui_changingthisone": "This will likely change in the near future...",
+    "browseui_changingthisone": "And now it has, save to same branch.",
     "browseui_highlightsavailable": "Highlights available"
   },
   "Metadata": {
