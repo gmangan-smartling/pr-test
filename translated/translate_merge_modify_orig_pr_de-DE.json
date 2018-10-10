@@ -74,7 +74,7 @@
     "browseui_countdownMessage" : "GOING LIVE IN %{countdown}...",
     "browseui_delayedTitle" : "VERSPÄTET",
     "browseui_estimatedLabel" : "et.",
-    "browseui_notactualui" : "Dies wird zweimal geändert bekommen.",
+    "browseui_notactualui" : "Dies ist das zweite Mal. Bereits zusammengeführten frühere Übersetzung. Dies wird zweimal geändert bekommen.",
     "browseui_highlightsavailable" : "Highlights verfügbar"
   },
   "Metadata" : {
