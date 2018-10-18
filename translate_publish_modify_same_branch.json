@@ -62,8 +62,7 @@
     "browseui_countdownMessage": "GOING LIVE IN %{countdown}...",
     "browseui_delayedTitle": "DELAYED",
     "browseui_estimatedLabel": "est.",
-    "browseui_notactualui": "Wait, you just modified this text.",
-    "browseui_highlightsavailable": "Highlights available"
+    "diff_key": "Modified text."
   },
   "Metadata": {
     "ArticlesLastUpdated": "2018-09-23T19:00:54.000Z",
