@@ -61,7 +61,7 @@
     "browseui_condensedTitle": "MINI HIGHLIGHTS",
     "browseui_countdownMessage": "GOING LIVE IN %{countdown}...",
     "browseui_delayedTitle": "DELAYED",
-    "browseui_estimatedLabel": "est.",
+    "new_key_1": "This is a new value to accompany the key.",
     "diff_key": "Modified text."
   },
   "Metadata": {
