@@ -66,7 +66,8 @@
     }
   ],
   "Strings": {
-    "key_is_two": "Totally different key."
+    "key_is_two": "Totally different key.",
+      "check": "Testing here."
   },
   "Metadata": {
     "ArticlesLastUpdated": "2018-09-23T19:00:54.000Z",
